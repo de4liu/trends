@@ -21,7 +21,7 @@ Use the Menu or Search Box to navigate.
 
 [Team 8 : Real-Time Price Prediction at Scale with Snowflake and Superset](#team-8-:-real-time-price-prediction-at-scale-with-snowflake-and-superset)
 
-[Team 9 : TrendNav AI \- Social Signal-Driven Product Trend Forecasting for E-commerce Sellers](#team-9-:-trendnav-ai---social-signal-driven-product-trend-discovery-\(opportunity-scanner\)-for-e-commerce-sellers)
+[Team 9 : TrendNav AI \- Social Signal-Driven Product Trend Forecasting for E-commerce Sellers](#team-9-:-trendnav-ai---social-signal-driven-product-trend-discovery-for-e-commerce-sellers)
 
 [Team 10 : Smart Recommendations at Scale: Market Basket Intelligence with Big Data \+ AI](#team-10-:-smart-recommendations-at-scale:-market-basket-intelligence-with-big-data-+-ai)
 
@@ -208,7 +208,7 @@ To complete the feedback loop, we integrate the prediction outputs with Apache S
 
 ---
 
-## **Team 9 : TrendNav AI \- Social Signal-Driven Product Trend Discovery (Opportunity Scanner) for E-commerce Sellers**  {#team-9-:-trendnav-ai---social-signal-driven-product-trend-discovery-(opportunity-scanner)-for-e-commerce-sellers}
+## **Team 9 : TrendNav AI \- Social Signal-Driven Product Trend Discovery (Opportunity Scanner) for E-commerce Sellers**  {#team-9-:-trendnav-ai---social-signal-driven-product-trend-discovery-for-e-commerce-sellers}
 
 **Members**: Avnee Satija, Aurosikha Mohanty, Yen-Hsi Kuo, Yaoting Huang, Ameer Akhter, Mariel Gonzalez Martinez 
 
