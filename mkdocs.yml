@@ -20,14 +20,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: orange
+      accent: yellow
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: orange
+      accent: yellow
 
 nav:
     - Big Data and AI Trends Market: index.md
