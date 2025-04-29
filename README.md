@@ -1,4 +1,7 @@
-# Carlson MSBA Big Data and AI Trends Market (Spring 2025)
+# Big Data and AI Trends Market (Spring 2025)
+
+[Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota][(](https://twin-cities.umn.edu/))
+[Master of Science in Business Analytics](https://carlsonschool.umn.edu/graduate/masters/business-analytics)
 
 This repository servers as a public homepage for Big Data and AI Trends Market at the Carlson School of Management, University of Minnesota.
 
