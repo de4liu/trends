@@ -1,11 +1,12 @@
 
+Use the Menu or Search Box to navigate. 
+
 # Big Data and AI Trends Market (Spring 2025)
 
 [Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/)
 
 [Master of Science in Business Analytics, Class of 2025](https://carlsonschool.umn.edu/graduate/masters/business-analytics)
 
-Use the Menu or Search Box to navigate. 
 
 ![trends market photo](assets/trends2.png)
 
@@ -160,8 +161,8 @@ MyMediTruth is an AI-powered solution designed to combat the widespread issue of
 * ETL & Preprocessing: PySpark (Databricks Community Edition)  
 * Modeling:
 
-    •  Classification: RoBERTa  
-    •  Explanation: OpenAI (for generating natural language explanations)
+•  Classification: RoBERTa  
+•  Explanation: OpenAI (for generating natural language explanations)
 
 * Deployment: Streamlit Dashboard for user interaction and real-time analysis
 
@@ -189,7 +190,7 @@ Tools/Technology used:
 * Tableau
 
    
-**GitHub URL**: [https://github.umn.edu/NEL02089/Real-Time-Movie-Recommendation-System](https://github.umn.edu/NEL02089/Real-Time-Movie-Recommendation-System)
+**GitHub URL**: [https://github.com/royceyen/Real-Time-Movie-Recommendation-System-Spark-Streaming](https://github.com/royceyen/Real-Time-Movie-Recommendation-System-Spark-Streaming)
 
 ---
 
@@ -208,7 +209,7 @@ To complete the feedback loop, we integrate the prediction outputs with Apache S
 **DataSet sources:** [https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices)  
 **Tools/Technology used:** Snowflake \+ Superset   
    
-**GitHub URL**: [https://github.umn.edu/SEN00055/End-to-End-Pipeline-for-Diamond-Price-Prediction-with-Snowflake](https://github.umn.edu/SEN00055/End-to-End-Pipeline-for-Diamond-Price-Prediction-with-Snowflake)
+**GitHub URL**: [https://github.com/Yutianxinw/End-to-End-Pipeline-for-Diamond-Price-Prediction-with-Snowflake](https://github.com/Yutianxinw/End-to-End-Pipeline-for-Diamond-Price-Prediction-with-Snowflake)
 
 ---
 
