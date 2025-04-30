@@ -7,6 +7,7 @@ Use the Menu or Search Box to navigate.
 
 [Master of Science in Business Analytics, Class of 2025](https://carlsonschool.umn.edu/graduate/masters/business-analytics)
 
+**Hosted by Professor [De Liu](mailto:deliu@umn.edu) with help of Carlson Analytics Lab, as part of MSBA 6331 Big Data Analytics** 
 
 ![trends market photo](assets/trends2.png)
 
