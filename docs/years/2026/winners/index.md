@@ -1,43 +1,29 @@
-Use the Menu or Search Box to navigate.
+**Links:** [Spring 2026 overview](../index.md) · [Projects](../projects/index.md) · [All years](../../../index.md)
 
 # Winners — Big Data and AI Trends Market (Spring 2026)
 
-April 24, 2026
+## **First Place**
 
-**Links**
+[![Team 5 - PersonaPath: Personalized Travel & Dining Recommendation Engine (Behavioral Profiling)](team05-first-place.png)](https://github.com/DhairyaLunia/Team5_Big_data.git)
 
-- [Spring 2026 projects](../)
-- [All years (archive)](../../)
-- [Current year home](../../../)
+## **Second Place**
 
-## Results
+[![Team 1 - Clinical Note Intelligence: An Agentic Hybrid Retrieval Framework Combining Structured Search and Retrieval-Augmented Generation](team01-second-place.png)](https://github.com/Eunggseo/big_data_team1)
 
-- **First Place**: Team 5 — PersonaPath: Personalized Travel & Dining Recommendation Engine (Behavioral Profiling)
-- **Second Place**: Team 1 — Clinical Note Intelligence: An Agentic Hybrid Retrieval Framework Combining Structured Search and Retrieval-Augmented Generation
-- **Third Place (ties)**:
-  - Team 11 — Detect Hidden Drug Safety Risks Faster with AI — FDA FAERS Analytics
-  - Team 3 — PotholeVision – Automating Pothole Detection and GeoMapping
-- **Best in Show**: Team 3 — PotholeVision – Automating Pothole Detection and GeoMapping
-- **Judges and Instructor’s Favorite**: Team 9 — InsideInsight: Agentic AI for Airbnb Pricing Strategy and Performance Optimization
 
-## Certificate images (PNG)
+## **Third Place (ties)**
 
-Put certificate PNGs in `docs/years/2026/winners/certificates/` using this naming pattern so linking is automatic and predictable:
+[![Team 11 - Detect Hidden Drug Safety Risks Faster with AI — FDA FAERS Analytics](team11-third-place.png)](https://github.com/Hayden1629/bigdataproject)
 
-- `team05-first-place.png`
-- `team01-second-place.png`
-- `team11-third-place.png`
-- `team03-third-place.png`
-- `team03-best-in-show.png`
-- `team09-judges-favorite.png`
 
-Then link them here (examples):
+[![Team 3 - PotholeVision–Automating Pothole Detection and GeoMapping](team03-third-place.png)](https://github.com/BDAteam3/Pothole_Project)
 
-- [team05-first-place.png](certificates/team05-first-place.png)
-- [team01-second-place.png](certificates/team01-second-place.png)
+## **Best in Show**
 
-## Legacy winners page (source)
+[![Team 3 — PotholeVision – Automating Pothole Detection and GeoMapping](team03-best-in-show.png)](https://github.com/BDAteam3/Pothole_Project)
 
-The original winners content is preserved here:
 
-- [Big Data and AI Trends Market Spring 2026 Winners (legacy)](../../../winners/Big%20Data%20and%20AI%20Trends%20Market%20Spring%202026%20Winners.md)
+## **Judges and Instructor’s Favorite**
+
+[![Team 9 — InsideInsight: Agentic AI for Airbnb Pricing Strategy and Performance Optimization](team09-judges-favorite.png)](https://github.com/stephweil208/big_data_team_9)
+

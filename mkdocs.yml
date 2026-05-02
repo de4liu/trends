@@ -1,8 +1,8 @@
-site_name: Big Data and AI Trends Market (2025) - Carlson MSBA
+site_name: Big Data and AI Trends Market — Carlson MSBA
 site_url: https://de4liu.github.io/trends/
 theme:
   name: material
-  favicon: assets/favicon.png
+  favicon: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -29,12 +29,17 @@ theme:
       primary: orange
       accent: yellow
 nav:
-    - Big Data and AI Trends Market: index.md
+    - Home: index.md
+    - Spring 2026:
+        - Overview: years/2026/index.md
+        - Projects: years/2026/projects/index.md
+        - Winners: years/2026/winners/index.md
     - Archive:
         - All years: years/index.md
-        - Spring 2025 (legacy): index-2025.md
-        - Spring 2026: years/2026/index.md
-        - Spring 2026 Winners: years/2026/winners/index.md
+        - Spring 2025:
+            - Overview: years/2025/index.md
+            - Projects: years/2025/projects/index.md
+            - Winners: years/2025/winners/index.md
 
 plugins:
   - search
