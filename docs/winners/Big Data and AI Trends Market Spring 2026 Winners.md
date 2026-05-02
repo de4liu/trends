@@ -1,0 +1,73 @@
+![][image1]  
+**2026 Big Data and AI Trends Market** 
+
+***From Data to Action: Agentic AI Systems with Big Data***
+
+April 24, 2026
+
+[![][image2]](https://drive.google.com/file/d/1i-wkpL87qgqZflGiD3YmXidVY7Gzn4TX/view?usp=sharing)  
+[Project flyers](https://drive.google.com/file/d/1i-wkpL87qgqZflGiD3YmXidVY7Gzn4TX/view?usp=sharing)
+
+**FIRST PLACE**
+
+ 
+
+[**Team 5**](https://drive.google.com/file/d/1RD9cvJbNc-Gi5jd3huJ_HIfVjQr_TGAH/view?usp=drive_link)**: PersonaPath: Personalized Travel & Dining Recommendation Engine (Behavioral Profiling)**
+
+**Members**: Esther Baumgartner, Hsin Kuei Chang, Saloni Jain, Fu Lee, Dhairya Lunia
+
+[Link to github](https://github.com/DhairyaLunia/Team5_Big_data.git)
+
+ 
+
+**SECOND PLACE**
+
+[**Team 1**](https://drive.google.com/file/d/1babGUIShQ892BKL6a5o11mKXPiwu1Vzz/view?usp=drive_link)**: Clinical Note Intelligence: An Agentic Hybrid Retrieval Framework Combining Structured Search and Retrieval-Augmented Generation**
+
+**Members**: Ethan Armstrong, Ankit (Ziqi) Cao, Ko Jung Hsu, Cole Johnson, Mashhood Khan, Wenyu Zhong
+
+ [Link to github](https://github.com/Eunggseo/big_data_team1)
+
+**THIRD PLACE (TIES)**
+
+ 
+
+[**Team 11**](https://drive.google.com/file/d/15yxHPMdegaHy0XF4avyKYrt7KiEAtJX-/view?usp=drive_link)**: Detect Hidden Drug Safety Risks Faster with AI — FDA FAERS Analytics**
+
+**Members**: Amogha Yalgi, Austin Ganje, Hannah Huang, Hayden Herstrom, Rachel Le
+
+[Link to github](https://github.com/Hayden1629/bigdataproject)
+
+[**Team 3**](https://drive.google.com/file/d/1XuBs6FltXKJf2v-i_koxmyu2wccyqJc9/view?usp=drive_link)**: PotholeVision–Automating Pothole Detection and GeoMapping**
+
+**Members**: Chunfang Wang, James Pashek, Joseph Sheehan, Madhu Damani, Moses Effah Akoto, Tao Fang
+
+[Link to github](https://github.com/BDAteam3/Pothole_Project)
+
+**BEST IN SHOW**
+
+[**Team 3**](https://drive.google.com/file/d/1omLdE3VanNiI37GFa_6BPtKsySU0lxFk/view?usp=drive_link)**: PotholeVision–Automating Pothole Detection and GeoMapping**
+
+**Members**: Chunfang Wang, James Pashek, Joseph Sheehan, Madhu Damani, Moses Effah Akoto, Tao Fang
+
+[Link to github](https://github.com/BDAteam3/Pothole_Project)
+
+ 
+
+**Special Category**
+
+**JUDGES AND INSTRUCTOR’S FAVORITE**
+
+ 
+
+[**Team 9**](https://drive.google.com/file/d/1qVtQKOdXULdrOH7-26ED26CwLsAn8DMV/view?usp=drive_link)**: InsideInsight: Agentic AI for Airbnb Pricing Strategy and Performance Optimization**
+
+**Members**: Bhavisha Chafekar, Jyothirmai Sri Peesapati, Phoenix Ferrari, Stephen Weiler, Tzu-Yu Chen
+
+[Link to github](https://github.com/stephweil208/big_data_team_9)
+
+ 
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAABGCAYAAAAn1M23AAADwUlEQVR4Xu2c3W0TQRRGJx1QAo8IsVZKoARKoARKoATenPACJVACJbgESkgH4IkyzujYxpPMzP2u7Xuko6BkvXv2Koy9/klKDrm7Wf1V6r0naISDtNZ7T9AIB2mt956gEQ7SWu89QSMcpLXee4JGOEhrvfcEjXCQ1nrvCRrhIK313hM0wkFa670naISDtNZ7T9AIB2mt956gEQ7SWu89QSMcpLXee4JGOEhrvfcEjXCQ1nrvCRrhIK313hM0wkFa670n6IDDHeU6vXvLY7XA/YySxwkGwmGPlsc7BW8/Wh4vGMCPdPuGgx7tOi2/edxjrNPqK28/2nX68JHHDTrhkGfJ4x6Dt5sljxt0cJeWBw54li2rksVqVMvjB6+Eg51t/kVhQyHf3XD72b72QiCo4FCtZEeB21nJjuCFcKBmptU3tihWo2KsSh1wmNZ67wkauE+rLxykwtKzfdz0hz+ztuVCIKhQ3oXQ/PxVbuL3Vf7vQiAAHJ5aD6tRLecVHMDTauTVWJUa4NDCw3JuQYW3uxDvcn5BenwZ5BcH1ev2Kuczvyczn19aNnvf7zEtD5zj1bM3pE69XW3NOs/nCQbDV6P6WWAXq9L2/KrTHfvLFKvSM3vD6XT2/l/qXs/gdzNw/1cJh9Ir91/gdlYee42M2/XK/V8dHEiv3H8hvwjLbWebr0LZUYhVaSAcRq+z99/r7D7u/yoY/T+SD2gfj8FtxLJvxoUAj3HxcAA9HrsL4XZq2ZcZfZf7Pb2/5TEuFp58r9x/gdupZV+B2/XK/V8sPPEej61GGW6rln2FWJVeAU+6V+6/htuqZV8Nt+2V+78oRn+M59QHCLm9WvbVDP8AaFo2PMZFcJ+WT3sn2ymPQbi9WvYRbt/r9qrwJ49x9vAkez21GmV4G7XsI8NXpZvTxzwrRq9G+YMBPMYheDu17DtEfqDM2/V4dqsST0Chx6Zaj31sksNAhR6baj32sUkOAxV6bKr12McmOQxU6LGp1mMfm+QwUKHHplqPfWySw0CFHptqPfaxSQ4DFbIpP9fkSfaxXyGb5DBQIZu8w36FbJLDQIVs8g77FbJJDgMVssk77FfIJjkMVMgm77BfYd2TX8rK7+/KL6vkn0ne18RAhWzyDvsV7lrym+vSsqkvCiQfvmSgQjZ5h/0Kdy1P718q3ytfzV/0ZaBCNnmH/QpLS/5ES91UN5Z/m8BAhWzyDvsV1i2Hvh56/msqDFTIJu+wX+GuZfsYiX/sNB4jnQnsV8im8sfOyl1dEARBEARBEARO+Af/7d5uzdraXgAAAABJRU5ErkJggg==>
+
+[image2]: <data:image/png;base64,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>

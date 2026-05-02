@@ -30,6 +30,11 @@ theme:
       accent: yellow
 nav:
     - Big Data and AI Trends Market: index.md
+    - Archive:
+        - All years: years/index.md
+        - Spring 2025 (legacy): index-2025.md
+        - Spring 2026: years/2026/index.md
+        - Spring 2026 Winners: years/2026/winners/index.md
 
 plugins:
   - search
